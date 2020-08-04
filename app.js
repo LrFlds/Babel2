@@ -31,3 +31,6 @@ boutonClose.addEventListener('click', close);
             const popup = document.querySelector('.popup');
             popup.classList.add('popup-actif');
         }
+
+
+

@@ -163,3 +163,11 @@ p{
     margin: 5%;
     z-index: 6;
 }
+
+/*---------------------------------------CONNEXION------------------------*/
+
+.inscription{
+    width: 40%;
+    height: 60%;
+    background-color: indigo;
+}
